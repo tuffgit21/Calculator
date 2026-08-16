@@ -20,7 +20,7 @@
 - PyInstaller && auto-py-to-exe
 ### Rebuilding Tutorial
 1. **On Windows**
-   - Use ** PyInstaller**: `pip install pyinstaller`
+   - Use **PyInstaller**: `pip install pyinstaller`
    - Or use **auto-py-to-exe**: `pip install auto-py-to-exe`
 
 2. **On Debian-based distros**  
