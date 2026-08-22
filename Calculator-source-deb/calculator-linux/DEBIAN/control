@@ -1,8 +1,0 @@
-Package: calculator
-Version: 1.5
-Section: utils
-Priority: optional
-Architecture: all
-Maintainer: tuffgit21 (Youssef)
-Depends: python3, python3-tk
-Description: A simple calculator made with Python and Tkinter

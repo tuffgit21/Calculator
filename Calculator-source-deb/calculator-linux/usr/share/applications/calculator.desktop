@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Calculator
-Comment=Simple calculator
-Exec=calculator
-Icon=/usr/share/calculator/calculator.png
-Terminal=false
-Type=Application
-Categories=Utility;

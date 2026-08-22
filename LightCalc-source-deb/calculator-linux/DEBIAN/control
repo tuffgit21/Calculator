@@ -1,0 +1,9 @@
+Package: lightcalc
+Version: 2.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: tuffgit21 (Youssef)
+Depends: python3, python3-tk
+Description: A simple calculator made with Python and Tkinter.
+    lightCalc targets computers without calculator!

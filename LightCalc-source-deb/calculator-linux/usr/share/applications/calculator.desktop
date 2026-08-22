@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=LightCalc
+Comment=Simple and lightweight calculator
+Exec=calculator
+Icon=/usr/share/LightCalc/calculator.png
+Terminal=false
+Type=Application
+Categories=Utility;
